@@ -119,6 +119,8 @@ h6, .h6 {
   margin-bottom: 0;
 }
 
+.center{text-align:center;}
+
 
 /* Pagination */
 .pager {
