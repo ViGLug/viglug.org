@@ -2,7 +2,7 @@
 {{ range .Data.Pages.ByDate.Reverse }}
           <div class="blog-post">
             <h2 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-            <p class="blog-post-meta">{{ .Date.Format "Mon, Jan 2, 2006" }} <a href="#">frafra</a></p>
+            <p class="blog-post-meta">{{ .Date.Format "02-01-2006" }} <a href="#">frafra</a></p>
 {{ .Content}}
           </div><!-- /.blog-post -->
 {{ end }}
