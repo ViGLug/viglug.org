@@ -6,5 +6,6 @@
           {{ .Content}}
         </div>
 {{ end }}
+{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Section" "blog") }}
 {{ template "_internal/pagination.html" . }}
 {{ partial "footer.html" . }}
