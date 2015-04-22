@@ -82,7 +82,6 @@ footer p:last-child{
 
 /** Stuff still to cleanup **/
 h1, .h1,h2, .h2,h3, .h3,h4, .h4,h5, .h5,h6, .h6{margin-top: 0;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;font-weight: normal;color: #333;}
-@media (min-width: 1200px){.container{width: 970px;}}
 .blog-nav-item{position: relative;display: inline-block;padding: 10px;font-weight: 500;color: #cdddeb;}
 .blog-nav-item:hover, .blog-nav-item:focus{color: #fff;text-decoration: none;}
 .blog-nav .active{color: #fff;}
