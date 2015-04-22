@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="it">
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,11 +9,15 @@
   <link rel="icon" href="{{ .Site.BaseUrl }}images/favicon.ico">
   <title>Blog Template for Bootstrap</title>
   <link href="{{ .Site.BaseUrl }}css/bootstrap-3.3.4.min.css" rel="stylesheet">
-  <link href="{{ .Site.BaseUrl }}css/blog.css" rel="stylesheet">
+  <link href="{{ .Site.BaseUrl }}css/style.css" rel="stylesheet">
 </head>
 <body>
-  <div class="blog-masthead">
-    <div class="container">
+  <div class="container nopadding">
+    <div class="header">
+      <h1>ViGLug</h1>
+      <h2>Vignate GNU/Linux User Group</h2>
+    </div>
+    <div class="menu">
       <nav class="blog-nav">
         <a class="blog-nav-item" href="{{ .Site.BaseUrl }}">Home</a>
         <a class="blog-nav-item" href="{{ .Site.BaseUrl }}eventi">Eventi</a>
@@ -25,10 +29,4 @@
         <a class="blog-nav-item" href="{{ .Site.BaseUrl }}contatti">Contatti</a>
       </nav>
     </div>
-  </div>
-  <div class="container">
-    <div class="blog-header">
-      <h1 class="blog-title">ViGLug</h1>
-      <p class="lead blog-description">Vignate GNU/Linux User Group</p>
-    </div>
-    <div class="row">
+    <div class="row nomargin">
