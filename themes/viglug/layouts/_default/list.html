@@ -1,10 +1,13 @@
 {{ partial "header.html" . }}
-{{ range .Data.Pages.ByDate.Reverse }}
+      <div class="col-sm-8 blog-main">
+        {{ range .Data.Pages.ByDate.Reverse }}
         <div class="blog-post">
           <h2 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-          <p class="blog-post-meta">{{ .Date.Format "02-01-2006" }} <a href="#">frafra</a></p>
-{{ .Content}}
+          <p class="blog-post-meta">{{ .Date.Format "02-01-2006" }}</p>
+          {{ .Content}}
         </div>
-{{ end }}
-{{ template "_internal/pagination.html" . }}
+        {{ end }}
+        {{ template "_internal/pagination.html" . }}
+      </div>
+{{ partial "sidebar.html" . }}
 {{ partial "footer.html" . }}
