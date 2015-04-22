@@ -1,4 +1,0 @@
-baseurl = "http://viglug.tsumi.it/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "viglug"
