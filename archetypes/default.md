@@ -1,4 +1,7 @@
 ---
-tags: ["x", "y"]
-categories: ["z"]
+tags:
+    - "First tag"
+    - "Second tag"
+categories:
+    - "Category"
 ---

@@ -1,3 +1,4 @@
 ---
 baseurl: "http://viglug.tsumi.it/"
 languageCode: "it-it"
+MetaDataFormat: "yaml"
