@@ -9,5 +9,4 @@ deploy:
   steps:
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
-        domain: viglug.github.io
         basedir: public
