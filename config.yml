@@ -2,3 +2,7 @@
 baseurl: "http://test.viglug.org"
 languageCode: "it-it"
 MetaDataFormat: "yaml"
+permalinks:
+    blog: /:section/:year/:month/:slug/
+    eventi: /:section/:year/:month/:slug/
+    incontri: /:section/:year/:month/:slug/
