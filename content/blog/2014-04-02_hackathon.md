@@ -1,7 +1,7 @@
 ---
 categories:
-- Category
-date: 2014-05-02T12:00:00+02:00
+- Eventi
+date: 2014-04-02T12:00:00+02:00
 tags:
 title: Hackathon!
 ---
