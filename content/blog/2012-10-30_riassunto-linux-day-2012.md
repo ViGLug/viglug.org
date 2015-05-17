@@ -1,7 +1,7 @@
 ---
 categories:
 - Linux Day
-date: 2012-09-30T12:00:00+01:00
+date: 2012-10-30T12:00:00+01:00
 tags:
 title: Riassunto Linux Day 2012
 ---
