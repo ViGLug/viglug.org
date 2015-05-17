@@ -1,10 +1,8 @@
 ---
 categories:
-- Category
+- Incontri
 date: 2012-11-26T12:00:00+01:00
 tags:
-- First tag
-- Second tag
 title: Incontro del 30 Novembre
 ---
 Venerdì 30 novembre ci incontreremo al [Baba Yaga](http://www.baba-yaga.it/) di Vignate. La serata si dividerà in due momenti:
