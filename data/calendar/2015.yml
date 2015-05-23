@@ -1,0 +1,22 @@
+- name: Incontro ViGLug
+  url: http://forum.viglug.org/index.php?topic=2132.0
+  begin:
+    date: 2015-01-15
+    time: 21:00 CET
+  end:
+    date: 2015-01-15
+    time: 23:59 CET
+  location:
+    name: OpenGate Srl
+    address: Via Giuseppe di Vittorio, 7 - 20063 Cernusco sul Naviglio MI
+- name: Incontro ViGLug
+  url: http://forum.viglug.org/index.php?topic=2139.0
+  begin:
+    date: 2015-01-23
+    time: 21:00 CET
+  end:
+    date: 2015-01-23
+    time: 23:59 CET
+  location:
+    name: OpenGate Srl
+    address: Via Giuseppe di Vittorio, 7 - 20063 Cernusco sul Naviglio MI
