@@ -94,6 +94,10 @@ aside div.widget img {
     max-width: 100%;
 }
 
+aside div.widget .fa {
+    padding-right: 5px;
+}
+
 /* Footer */
 footer {
     padding: 40px 0;
