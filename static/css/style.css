@@ -32,7 +32,8 @@ div.container {
 div.container > nav {
     background-color: #000000;
     display: flex;
-    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
     font-size: large;
 }
 
@@ -42,6 +43,7 @@ nav a.nav-item {
     padding: 10px;
     font-weight: 500;
     color: #cdddeb;
+    flex-grow: 1;
 }
 
 nav a.nav-item:hover,
