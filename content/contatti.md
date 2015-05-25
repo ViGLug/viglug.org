@@ -1,5 +1,4 @@
 ---
-date: "2015-04-11T23:17:26+02:00"
 title: "Contatti"
 type: "contatti"
 ---
