@@ -1,11 +1,17 @@
 {{ partial "header.html" . }}
       <section id="main" class="col-sm-8 blog-main">
-        {{ range .Paginator.Pages }}
+        <h2>Futuri incontri</h2>
+        {{ range where .Data.Pages.ByDate.Reverse "Date.Unix" ">" .Now.Unix }}
         <article class="blog-post">
             <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
         </article>
         {{ end }}
-        {{ partial "pagination.html" . }}
+        <h2>Incontri passati</h2>
+        {{ range where .Data.Pages "Date.Unix" "<" .Now.Unix }}
+        <article class="blog-post">
+            <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+        </article>
+        {{ end }}
       </section>
 {{ partial "sidebar.html" . }}
 {{ partial "footer.html" . }}
