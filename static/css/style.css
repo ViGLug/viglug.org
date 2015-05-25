@@ -28,6 +28,10 @@ div.container {
     background-color: #FFFFFF;
 }
 
+.fa {
+    padding-right: 5px;
+}
+
 /* Navigation */
 div.container > nav {
     background-color: #000000;
@@ -109,10 +113,6 @@ aside div.widget ol:last-child {
 aside div.widget img {
     max-width: 100%;
     padding-top: 5px;
-}
-
-aside div.widget .fa {
-    padding-right: 5px;
 }
 
 /* Footer */
