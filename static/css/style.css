@@ -73,6 +73,16 @@ header > h2 {
 }
 
 /* Body */
+article h1 {
+    text-align: center;
+    border-bottom: 1px groove;
+    padding-bottom: 0.2em;
+}
+article .meta {
+    text-align: right;
+    padding-bottom: 0.5em;
+    font-size: smaller;
+}
 
 /* Sidebar */
 aside div.widget {
