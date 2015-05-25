@@ -52,6 +52,11 @@ nav a.nav-item:focus {
     text-decoration: none;
 }
 
+nav li.previous span,
+nav li.next span {
+    padding: 5px;
+}
+
 /* Header */
 header{
     padding-top: 20px;
