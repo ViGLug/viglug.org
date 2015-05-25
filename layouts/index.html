@@ -1,6 +1,5 @@
 {{ partial "header.html" . }}
       <div class="col-sm-8 blog-main">
-        {{ template "_internal/pagination.html" . }}
         {{ range .Paginator.Pages }}
         <div class="blog-post">
           <h2 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
@@ -8,6 +7,7 @@
           {{ .Content}}
         </div>
         {{ end }}
+        {{ partial "pagination.html" . }}
       </div>
 {{ partial "sidebar.html" . }}
 {{ partial "footer.html" . }}
