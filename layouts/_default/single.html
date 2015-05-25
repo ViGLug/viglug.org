@@ -1,10 +1,10 @@
 {{ partial "header.html" . }}
-      <div class="col-sm-8 blog-main">
-        <div class="blog-post">
+      <section id="main" class="col-sm-8 blog-main">
+        <article class="blog-post">
           <h1 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
           <p class="blog-post-meta">{{ .Date.Format "02-01-2006" }}</p>
           {{ .Content}}
-        </div>
-      </div>
+        </article>
+      </section>
 {{ partial "sidebar.html" . }}
 {{ partial "footer.html" . }}
