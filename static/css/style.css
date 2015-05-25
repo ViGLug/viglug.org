@@ -31,6 +31,9 @@ div.container {
 /* Header */
 div.container > nav {
     background-color: #000000;
+    display: flex;
+    justify-content: space-around;
+    font-size: large;
 }
 
 nav a.nav-item {
