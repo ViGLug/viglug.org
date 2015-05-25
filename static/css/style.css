@@ -84,6 +84,12 @@ aside div.widget {
     border-radius: 4px;
 }
 
+aside div.widget h4 {
+    text-align: center;
+    border-bottom: 1px solid;
+    padding-bottom: 0.5em;
+}
+
 aside div.widget p:last-child,
 aside div.widget ul:last-child,
 aside div.widget ol:last-child {
@@ -92,6 +98,7 @@ aside div.widget ol:last-child {
 
 aside div.widget img {
     max-width: 100%;
+    padding-top: 5px;
 }
 
 aside div.widget .fa {
