@@ -3,4 +3,18 @@ title: "Contatti"
 type: "contatti"
 ---
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+## Forum
+Accedi al nostro [forum](http://forum.viglug.org).
+
+## Email
+info@viglug.org
+
+## Prossima riunione
+Vedi la prossima riunione [qui](/incontri).
+
+## Social Networks
+* <i class="fa fa-github-square"></i><a href="https://github.com/ViGLug">GitHub</a></li>
+* <i class="fa fa-twitter-square"></i><a href="https://twitter.com/ViGLug">Twitter</a></li>
+* <i class="fa fa-facebook-official"></i><a href="https://facebook.com/ViGLug">Facebook</a></li>
+* <i class="fa fa-google-plus-square"></i><a href="https://plus.google.com/+ViGLugOrg">Google Plus</a></li>
+* <i class="fa fa-suitcase"></i><a href="http://www.meetup.com/ViGLug">Meetup</a></li>
