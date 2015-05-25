@@ -1,13 +1,36 @@
 {{ partial "header.html" . }}
-      <div class="col-sm-8 blog-main">
+      <section id="main" class="col-sm-8 blog-main">
         {{ range .Paginator.Pages }}
-        <div class="blog-post">
-          <h2 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-          <p class="blog-post-meta">{{ .Date.Format "02-01-2006" }}</p>
-          {{ .Summary }}
-        </div>
+        <article class="blog-post">
+            <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+            <div class="meta">
+                <time pubdate datetime="{{ .Date.Format "02-01-2006" }}">{{ .Date.Format "02/01/2006" }}</time>
+            </div>
+            <div class="txt">
+                <p class="nomargin">
+                    {{ .Summary }}
+                    <a href="{{ .Permalink }}" title="{{ .Title }}" class="rm">Continua a leggere &rarr;</a>
+                </p>
+            </div>
+            <div class="footer">
+                {{ if .Params.categories }}
+                    Categorie:
+                        {{ range $i, $e :=.Params.categories }}
+                            {{if $i}} , {{end}}
+                            <a href="/categories/{{ . | urlize }}">{{ . }}</a>
+                        {{ end }}
+                {{ end }}
+                {{ if .Params.tags }}
+                    Tags:
+                        {{ range $i, $e :=.Params.tags }}
+                            {{if $i}} , {{end}}
+                            <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+                        {{ end }}
+                {{ end }}
+            </div>
+        </article>
         {{ end }}
         {{ partial "pagination.html" . }}
-      </div>
+      </section>
 {{ partial "sidebar.html" . }}
 {{ partial "footer.html" . }}

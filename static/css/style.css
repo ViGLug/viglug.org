@@ -29,11 +29,11 @@ div.container {
 }
 
 /* Header */
-div.menu {
+div.container > nav {
     background-color: #000000;
 }
 
-div.menu a.nav-item {
+nav a.nav-item {
     position: relative;
     display: inline-block;
     padding: 10px;
@@ -41,24 +41,24 @@ div.menu a.nav-item {
     color: #cdddeb;
 }
 
-div.menu a.nav-item:hover,
-div.menu a.nav-item:focus {
+nav a.nav-item:hover,
+nav a.nav-item:focus {
     color: #fff;
     text-decoration: none;
 }
 
-div.header{
+header{
     padding-top: 20px;
     padding-bottom: 20px;
     background-color: #428BCA;
 }
 
-div.header > h1 {
+header > h1 {
     text-align: center;
     font-weight: bold;
 }
 
-div.header > h2 {
+header > h2 {
     text-align: center;
     font-size: 20px;
     color: #999;
@@ -67,7 +67,7 @@ div.header > h2 {
 /* Body */
 
 /* Sidebar */
-div.sidebar div.widget {
+aside div.widget {
     padding: 15px;
     margin: 15px 0 15px 0;
 
@@ -76,14 +76,14 @@ div.sidebar div.widget {
     border-radius: 4px;
 }
 
-div.sidebar div.widget p:last-child,
-div.sidebar div.widget ul:last-child,
-div.sidebar div.widget ol:last-child {
+aside div.widget p:last-child,
+aside div.widget ul:last-child,
+aside div.widget ol:last-child {
     margin-bottom: 0;
 }
 
 /* Footer */
-footer{
+footer {
     padding: 40px 0;
     color: #999;
     text-align: center;
@@ -91,17 +91,7 @@ footer{
     border-top: 1px solid #E5E5E5;
 }
 
-footer p:last-child{
-    margin-bottom: 0;
+footer p,
+footer address {
+    margin: 0;
 }
-
-
-/** Stuff still to cleanup... keeping in comments just to remember **/
-/**h1, .h1,h2, .h2,h3, .h3,h4, .h4,h5, .h5,h6, .h6{margin-top: 0;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;font-weight: normal;color: #333;}
-.blog-title{margin-top: 30px;margin-bottom: 0;font-size: 60px;font-weight: normal;}
-.blog-main{font-size: 18px;line-height: 1.5;}
-.pager{margin-bottom: 60px;text-align: left;}
-.pager > li > a{width: 140px;padding: 10px 20px;text-align: center;border-radius: 30px;}
-.blog-post{margin-bottom: 60px;}
-.blog-post-title{margin-bottom: 5px;font-size: 40px;}
-.blog-post-meta{margin-bottom: 20px;color: #999;}**/

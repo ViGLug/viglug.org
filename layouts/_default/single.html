@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
       <div class="col-sm-8 blog-main">
         <div class="blog-post">
-          <h2 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          <h1 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
           <p class="blog-post-meta">{{ .Date.Format "02-01-2006" }}</p>
           {{ .Content}}
         </div>
