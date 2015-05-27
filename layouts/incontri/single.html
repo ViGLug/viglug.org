@@ -3,7 +3,7 @@
         <article class="blog-post">
           <h1 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
           <div>
-            <p><b>Dove:</b> {{ .Params.location.name }} in {{ .Params.location.address }} (<a href="http://nominatim.openstreetmap.org/search.php?q={{ .Params.location.address }} Italy&amp;polygon=1">mappa</a>)</p>
+            <p><b>Dove:</b> {{ .Params.location.name }} in {{ .Params.location.address }} (<a href="http://nominatim.openstreetmap.org/search.php?q={{ .Params.location.address }}%20Italy&amp;polygon=1">mappa</a>)</p>
             <p><b>Quando:</b> {{ .Date.Format "15:04 del 02/01/2006" }}</p>
             <p><b>Ordine del Giorno:</b></p>
             <ul>
