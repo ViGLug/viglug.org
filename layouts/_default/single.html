@@ -2,7 +2,6 @@
       <section id="main" class="col-sm-9 blog-main">
         <article class="blog-post">
           <h1 class="blog-post-title">{{ .Title }}</h1>
-          {{ if isset .Date }}<p class="blog-post-meta">{{ .Date.Format "02-01-2006" }}</p>{{ end }}
           {{ .Content}}
         </article>
       </section>
