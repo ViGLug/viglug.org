@@ -1,6 +1,7 @@
 {{ partial "header.html" . }}
       <section id="main" class="col-sm-9 blog-main">
-        {{ range .Paginator.Pages where .Data.Pages "Section" "blog" }}
+        {{ $paginator := .Paginate (where .Data.Pages "Section" "blog") }}
+        {{ range $paginator.Pages }}
         <article class="blog-post">
             <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
             <div class="meta">
