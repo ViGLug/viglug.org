@@ -2,7 +2,7 @@
       <section id="main" class="col-sm-9 blog-main">
         <article class="blog-post">
           <h1 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-          <p class="blog-post-meta">{{ .Date.Format "02-01-2006" }}</p>
+          {{ if isset .Date }}<p class="blog-post-meta">{{ .Date.Format "02-01-2006" }}</p>{{ end }}
           {{ .Content}}
         </article>
       </section>
