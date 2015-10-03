@@ -3,13 +3,13 @@
         <h2>Futuri incontri</h2>
         {{ range (where .Data.Pages "Date.Unix" ">" .Now.Unix).Reverse }}
         <article class="blog-post">
-            <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
         </article>
         {{ end }}
         <h2>Incontri passati</h2>
         {{ range where .Data.Pages "Date.Unix" "<" .Now.Unix }}
         <article class="blog-post">
-            <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
         </article>
         {{ end }}
       </section>

@@ -2,10 +2,10 @@
       <section id="main" class="col-sm-9 blog-main">
         {{ range .Paginator.Pages }}
         <article class="blog-post">
-            <h1>
+            <h3>
                 <a href="{{ .Permalink }}">{{ .Title }}</a>
                 <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
-            </h1>
+            </h3>
         </article>
         {{ end }}
         {{ partial "pagination.html" . }}
