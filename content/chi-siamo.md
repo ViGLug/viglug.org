@@ -28,3 +28,18 @@ Vieni a trovarci! Oltre agli eventi ci ritroviamo due volte al mese (il primo lu
 
 ## Quanti siete?
 Contiamo 150 simpatizzanti e una dozzina di persone attive, in costante aumento.
+
+## Dove vi incontrate?
+A partire da Aprile 2015, il ViGLug si incontra presso la sede di OpenGate in Via Milano 37/C, Gorgonzola (MI) a meno che non venga espressamente specificato diversamente.
+
+## Quando vi incontrate?
+La regola generale è che gli incontri hanno luogo il primo Lunedì del mese e il terzo Venerdì successivo (cioè il Venerdì che cade 18 giorni dopo il Lunedì dell'incontro).
+Per un calendario preciso, ti invitiamo a guardare la [apposita pagina](/incontri).
+Tutti gli incontri cominciano alle 21.00 (a meno che non venga diversamente specificato).
+
+## Come si svolge mediamente un incontro del ViGLug?
+Solitamente gli incontri sono così strutturati:
+
+* 21.00-21.30: Coffee
+* 21.30-22.30: Riunione seguendo l'OdG (la durata può variare sulla base del numero e del tipo dei punti dell'OdG)
+* 22.30-23.59: Le persone si dividono in gruppi (flessibili) per approfondire argomenti di interesse comune
