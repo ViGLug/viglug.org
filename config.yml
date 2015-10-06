@@ -1,5 +1,5 @@
 ---
-baseurl: "http://test.viglug.org"
+# baseurl: "https://test.viglug.org"
 languageCode: "it-it"
 MetaDataFormat: "yaml"
 permalinks:
