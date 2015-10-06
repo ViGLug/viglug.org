@@ -1,7 +1,7 @@
 ---
 categories:
 - Incontri
-date: 2015-073-23T12:00:00+02:00
+date: 2015-07-23T12:00:00+02:00
 tags:
 title: Due eventi speciali per salutarci prima della pausa estiva
 ---
