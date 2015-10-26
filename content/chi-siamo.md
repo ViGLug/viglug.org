@@ -40,6 +40,6 @@ Tutti gli incontri cominciano alle 21.00 (a meno che non venga diversamente spec
 ## Come si svolge mediamente un incontro del ViGLug?
 Solitamente gli incontri sono così strutturati:
 
-* 21.00-21.30: Coffee
+* 21.00-21.30: Pausa caffe
 * 21.30-22.30: Riunione seguendo l'OdG (la durata può variare sulla base del numero e del tipo dei punti dell'OdG)
 * 22.30-23.59: Le persone si dividono in gruppi (flessibili) per approfondire argomenti di interesse comune
