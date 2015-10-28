@@ -1,6 +1,7 @@
 ---
 title: "Chat"
 type: "chat"
+nodate: True
 ---
 
 Puoi accedere alla chat usando il riquadro qui sotto, oppure connettendoti col un client IRC al canale *#viglug* del server *irc.freenode.net*.
