@@ -1,6 +1,7 @@
 ---
 title: "Contatti"
 type: "contatti"
+nodate: True
 ---
 
 ## Forum
