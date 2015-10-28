@@ -13,10 +13,12 @@
             </ul>
             {{if .Params.audio }}
             <p><b>Registrazione audio:</b>
-                <audio id="elettronicalibera-mattina" style="width: 100%;" src="{{ .Params.audio }}" controls="controls">
-                    Apri <a href="{{ .Params.audio }}">il file</a> col tuo riproduttore audio preferito.</audio>
-                {{ end }}
+                <audio style="width: 100%;" controls preload='auto'>
+                    <source src="{{ .Params.audio }}">
+                    Apri <a href="{{ .Params.audio }}">il file</a> col tuo riproduttore audio preferito.
+                </audio>
             </p>
+            {{ end }}
           </div>
           {{ .Content}}
         </article>
