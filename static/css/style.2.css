@@ -88,6 +88,11 @@ article .meta {
     font-size: smaller;
 }
 
+article .meta-right {
+    margin-top: -30px;
+    float: right;
+}
+
 /* Sidebar */
 aside div.widget {
     padding: 15px;
