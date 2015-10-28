@@ -1,6 +1,7 @@
 ---
 title: "Chi Siamo"
 type: "chi-siamo"
+nodate: True
 ---
 
 ## Cos'è il ViGLug?
