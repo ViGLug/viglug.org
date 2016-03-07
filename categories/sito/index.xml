@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sito on </title>
+    <link>/categories/sito/</link>
+    <description>Recent content in Sito on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Wed, 14 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/sito/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HTTPS abilitato sui siti web del ViGLug</title>
+      <link>/blog/2015/10/https-abilitato-sui-siti-web-del-viglug/</link>
+      <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2015/10/https-abilitato-sui-siti-web-del-viglug/</guid>
+      <description>&lt;p&gt;Nel processo iniziato a ine anno il cui obiettivo è la ristrutturazione della presenza web del ViGLug, siamo contenti di poter annunciare che da questo momento il sito web del ViGLug utilizza esclusivamente HTTPS e non è piú possibile raggiungere in modo non sicuro (HTTP) il sito.&lt;/p&gt;
+
+&lt;p&gt;Come si può notare utilizzando il tool &lt;a href=&#34;https://www.ssllabs.com/ssltest/analyze.html?d=viglug.org&amp;amp;latest=&#34;&gt;SSLLabs&lt;/a&gt; il sito del ViGLug non è soltato protetto con HTTPS, ma la sua configurazione garantisce un alto livello di sicurezza durante navigazione.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nuovo sito</title>
+      <link>/blog/2012/05/nuovo-sito/</link>
+      <pubDate>Tue, 22 May 2012 12:00:00 +0200</pubDate>
+      
+      <guid>/blog/2012/05/nuovo-sito/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Benvenuto!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;E’ in costruzione il nuovo sito dell’Associazione Culturale Traguardi e del Vignate GNU/Linux user group (ViGLug).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alcuni importanti&lt;/strong&gt; cambiamenti per i navigatori:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;La mailing list &amp;ldquo;discussioni&amp;rdquo; viene sostituita dal forum&lt;/li&gt;
+&lt;li&gt;La mailing list &amp;ldquo;annunci&amp;rdquo; diventa la newsletter ufficiale del ViGLug e cambia veste grafica&lt;/li&gt;
+&lt;li&gt;E’ possibile iscriversi alla newsletter direttamente dal sito (voce &amp;ldquo;Newsletter&amp;rdquo;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dicci cosa ne pensi sul nostro nuovo forum, nella discussione &amp;ldquo;&lt;a href=&#34;http://forum.viglug.org/index.php?topic=4&#34;&gt;Nuovo sito: cosa ne pensate?&lt;/a&gt;&amp;rdquo; (vedi anche l’&lt;a href=&#34;http://forum.viglug.org/index.php?topic=2.0&#34;&gt;annuncio&lt;/a&gt; sul forum)!!&lt;/p&gt;
+
+&lt;p&gt;Nel giro di 48 ore i lavori di messa a punto del nuovo portale dovrebbero essere completati 😉&lt;/p&gt;
+
+&lt;p&gt;I video, le foto, le presentazioni, e i dischi relativi al Linux Day 2011 sono ancora reperibili presso il nostro &lt;a href=&#34;http://repo.viglug.org/&#34;&gt;archivio&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sito non raggiungibile</title>
+      <link>/blog/2010/11/sito-non-raggiungibile/</link>
+      <pubDate>Mon, 01 Nov 2010 12:00:00 +0200</pubDate>
+      
+      <guid>/blog/2010/11/sito-non-raggiungibile/</guid>
+      <description>&lt;p&gt;Non è stato possibile raggiungere il sito del ViGLug il 31 ottobre, a causa di un problema tecnico che non è dipeso da noi: alcuni server DNS hanno smesso di puntare correttamente al nostro ip (in particolare Fastweb, Vodafone/TeleTu), mentre tutto ha continuato a funzionare normalmente per gli altri (vedasi OpenDNS, ip 208.67.220.220 e 208.67.222.222). Pare che ora tutto sia tornato nella normalità :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>È arrivato il forum</title>
+      <link>/blog/2010/10/%C3%A8-arrivato-il-forum/</link>
+      <pubDate>Sun, 24 Oct 2010 13:00:00 +0200</pubDate>
+      
+      <guid>/blog/2010/10/%C3%A8-arrivato-il-forum/</guid>
+      <description>&lt;p&gt;Al ViGLug si lavora incessantemente per completare l&amp;rsquo;allestimento del sito della comunità.
+Ora è disponibile un forum, dove tutti siete invitati ad iscrivervi e ad intervenire, accessibile dalla barra in alto.&lt;/p&gt;
+
+&lt;p&gt;Siccome abbiamo creato l&amp;rsquo;intero sito in meno di 24 ore, è possibile (anzi, probabile) che non tutto funzioni perfettamente: in tal caso vi preghiamo di segnalarcelo, in modo da potere correggere il problema il prima possibile ;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nasce il ViGLug</title>
+      <link>/blog/2010/10/nasce-il-viglug/</link>
+      <pubDate>Sun, 24 Oct 2010 12:00:00 +0200</pubDate>
+      
+      <guid>/blog/2010/10/nasce-il-viglug/</guid>
+      <description>&lt;p&gt;Dopo il Linux Day 2010 e la buona risposta che abbiamo avuto sul territorio, oggi nasce formalmente il ViGLug: Vignate GNU/Linux user group.&lt;/p&gt;
+
+&lt;p&gt;Un grazie particolare a tutte le persone che hanno reso possibile questa avventura e che ci hanno spinto e aiutato a realizzarla. :)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

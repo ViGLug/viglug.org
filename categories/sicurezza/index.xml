@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sicurezza on </title>
+    <link>/categories/sicurezza/</link>
+    <description>Recent content in Sicurezza on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Thu, 10 Apr 2014 10:00:00 +0200</lastBuildDate>
+    <atom:link href="/categories/sicurezza/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vulnerabilità &#34;Heartbleed&#34;!</title>
+      <link>/blog/2014/04/vulnerabilit%C3%A0-heartbleed/</link>
+      <pubDate>Thu, 10 Apr 2014 10:00:00 +0200</pubDate>
+      
+      <guid>/blog/2014/04/vulnerabilit%C3%A0-heartbleed/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;E’ stato trovato un importante bug di sicurezza&lt;/strong&gt; in un software ampiamente utilizzato, chiamato OpenSSL che si stima sia utilizzato da due terzi dei siti web mondiali, oltre che dai server di posta elettronica e da molti altri servizi, come quelli di messaggistica, chat e reti private virtuali.&lt;/p&gt;
+
+&lt;p&gt;E’ fondamentale per gli utenti cambiare le password dei siti web affetti dal problema, tra cui: &lt;strong&gt;Google, Yahoo, Facebook, Flickr, Wikimedia, Dropbox, Tumblr, Lastpass, SoundCloud ed Amazon Web Service&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eventis on </title>
+    <link>/eventi/</link>
+    <description>Recent content in Eventis on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Sat, 24 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/eventi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LinuxDay 2015</title>
+      <link>/eventi/2015/10/linuxday-2015/</link>
+      <pubDate>Sat, 24 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/eventi/2015/10/linuxday-2015/</guid>
+      <description>&lt;div style=&#34;width: 50%; float: right; padding-left: 10px;&#34;&gt;
+&lt;a href=&#34;/images/2015_linux_day.png&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;/images/2015_linux_day.png&#34; alt=&#34;Locandina Linux Day 2015&#34; class=&#34;img-responsive img-thumbnail&#34; /&gt;&lt;/a&gt;
+Scarica la locandina dell&#39;evento in formato &lt;a href=&#34;/images/2015_linux_day.png&#34;&gt;png&lt;/a&gt; o &lt;a href=&#34;/docs/2015_linux_day.pdf&#34;&gt;pdf&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;C&amp;rsquo;è chi usa il pc per lavoro, per studio o per passione, c&amp;rsquo;è chi si interessa di informatica e chi si limita ad utilizzare social network e scrivere qualche mail: per tutti quelli che vogliono saperne di più a Vignate è attivo il ViGLug, gruppo di riferimento per la zona Milano Est - Adda Martesana degli amanti del software libero, della libera conoscenza, e delle libertà digitali.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sabato 24 ottobre presso la sede della &lt;a href=&#34;http://www.lagvignate.altervista.org&#34;&gt;Libera Associazione Genitori (L.A.G.)&lt;/a&gt; di Vignate, &lt;a href=&#34;http://www.openstreetmap.org/?mlat=45.49611&amp;amp;mlon=9.37917#map=19/45.49611/9.37917&#34;&gt;Via Guglielmo Marconi 19&lt;/a&gt;, dalle ore 9 alle ore 19.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Potrai trovare talk, spazi per l&amp;rsquo;assistenza tecnica, gadget, dibattiti e dimostrazioni pratiche.&lt;/p&gt;
+
+&lt;p&gt;Assisterai a presentazioni sul software libero, Linux, distribuzioni, Wikipedia, Firefox, privacy, ma soprattutto saprai &lt;strong&gt;come contribuire e partecipare a questa fantastica comunità&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;Puoi raggiungere il luogo dell&amp;rsquo;evento utilizzando uno dei seguenti mezzi di trasporto:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Treni suburbani&lt;/strong&gt; &lt;a href=&#34;http://www.trenord.it/it/circolazione-e-linee/le-linee/linee-s/s5.aspx&#34;&gt;S5&lt;/a&gt; (direttrice Varese-Treviglio) o &lt;a href=&#34;http://www.trenord.it/it/circolazione-e-linee/le-linee/linee-s/s6.aspx&#34;&gt;S6&lt;/a&gt; (direttrice Novara-Treviglio)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bus&lt;/strong&gt; &lt;a href=&#34;http://milanosudest.autoguidovie.it/files/Milano%20Sud-Est/Linee/Orari/Invernale_scolastico/z401_FER%20INV.pdf&#34;&gt;Z401&lt;/a&gt; (collegamento con Villa Fiorita M2)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automobile&lt;/strong&gt;, tramite Cassanese o Rivoltana (uscita Vignate)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bicicletta&lt;/strong&gt;, tramite ciclovia della Martesana fino a Cassina de Pecchi M2 e ciclopedonale fino a Vignate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Scaletta:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;09:30 - Introduzione al software libero e a Linux&lt;/li&gt;
+&lt;li&gt;10:15 - Primi passi col pinguino: 10 domande frequenti&lt;/li&gt;
+&lt;li&gt;11:00 - Open Street Map&lt;/li&gt;
+&lt;li&gt;11:45 - Privacy: la sfida del 21esimo secolo&lt;/li&gt;
+&lt;li&gt;12:30 - Elettronica libera: Arduino e Raspberry&lt;/li&gt;
+&lt;li&gt;13:15 - &lt;em&gt;Pausa pranzo&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;15:00 - Firefox: la fondazione Mozilla ed il Firefox Club&lt;/li&gt;
+&lt;li&gt;15:45 - Libertà è partecipazione: contribuire senza scrivere codice&lt;/li&gt;
+&lt;li&gt;16:30 - Wikipedia e Wikidata&lt;/li&gt;
+&lt;li&gt;17:15 - FLOSS per aziende, PA e scuole&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vi saranno inoltre, durante l&amp;rsquo;intero arco della giornata, alcuni &lt;strong&gt;banchetti&lt;/strong&gt; per approfondire alcuni argomenti specifici e provare alcune soluzioni libere.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ciascun interventò durerà mezz&amp;rsquo;ora&lt;/strong&gt;, al termine della quale sarà possibile porre le proprie &lt;strong&gt;domande&lt;/strong&gt; al relatore.&lt;/p&gt;
+
+&lt;p&gt;Il mondo del pinguino è nato anche per te. L&amp;rsquo;ingresso è libero e gratuito. Ti aspettiamo!&lt;/p&gt;
+
+&lt;p&gt;Riferimenti aggiuntivi:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://linuxday.it/&#34;&gt;Sito nazionale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forum.viglug.org/index.php/topic,2166.0.html&#34;&gt;Discussione sul forum del ViGLug&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elettronica libera</title>
+      <link>/eventi/2015/03/elettronica-libera/</link>
+      <pubDate>Sat, 21 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/eventi/2015/03/elettronica-libera/</guid>
+      <description>
+
+&lt;p&gt;Sabato 21 marzo 2015, dalle 9 alle 18, presso l&amp;rsquo;aula consiliare del Comune di Settala (via Giuseppe Verdi 8/C, foto ingresso), si è tenuto l&amp;rsquo;evento &lt;strong&gt;Elettronica libera&lt;/strong&gt;, legato ad ARM e al mondo embedded, in salsa libera.&lt;/p&gt;
+
+&lt;p&gt;La giornata ha seguito il seguente programma:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;09:00 - Registrazione&lt;/li&gt;
+&lt;li&gt;09:30 - Arduino, BeagleBoard, Raspberry Pi&amp;hellip; e non solo! - Introduzione al mondo embedded (&lt;em&gt;Idraulico&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;10:15 - Software libero nell&amp;rsquo;era dell&amp;rsquo;internet delle cose - Libertà, privacy, e controllo in una realtà virtuale sempre più reale (&lt;em&gt;Francesco Frassinelli&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;11:00 - Verso Arduino&amp;hellip; E oltre! - Introduzione alla scheda elettronica Arduino come strumento didattico e di prototipazione (&lt;em&gt;Andrea Boero&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;11:45 - GNU/Linux nel mondo del business - Perché scegliere GNU/Linux nel mondo industriale &amp;amp; aziendale (&lt;em&gt;Fabio Alessandro Locati&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;12:30 - Pranzo&lt;/li&gt;
+&lt;li&gt;14:00 - Basi di GPIO - Introduzione pratica all&amp;rsquo;interfaccia di Input/Output del Raspberry Pi al fine di estenderne le funzionalità (&lt;em&gt;Andrea Boero&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;14:45 - Come utilizzare il Raspberry Pi - Pensare e realizzare un progetto (&lt;em&gt;Idraulico&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;15:30 - Sperimentare sulla BeagleBoard - Come cominciare a scrivere codice e provarlo in pochi minuti (&lt;em&gt;Fabio Alessandro Locati&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;16:15 - BeagleBoard! &amp;hellip;in pratica? - Dis-avventure di uno sperimentatore praticone (&lt;em&gt;liquido&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;17:00 - Router intelligenti &amp;amp; GPIO con OpenWrt - Trasformare un router economico in una piattaforma di sviluppo (&lt;em&gt;Francesco Frassinelli&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;17:25 - Ninux Lombardia: Internet parallela senza fili - Rete Wi-Fi libera e decentralizzata costruita dalla comunità (&lt;em&gt;Francesco Frassinelli&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;17:45 - Saluti&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;registrazioni:1c0096223f2d2cc44c6dd34c3c07f876&#34;&gt;Registrazioni&lt;/h3&gt;
+
+&lt;p&gt;Sono ora disponibili le registrazioni audio e le presentazioni dell&amp;rsquo;evento &amp;ldquo;&lt;strong&gt;Elettronica libera&lt;/strong&gt;&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mattina&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;audio id=&#34;elettronicalibera-mattina&#34; style=&#34;width: 100%;&#34; src=&#34;https://archive.viglug.org/2015/elettronicalibera-mattina.opus&#34; controls=&#34;controls&#34;&gt;Apri &lt;a href=&#34;&#34;https://archive.viglug.org/2015/elettronicalibera-mattina.opus&#34;&gt;elettronicalibera-mattina.opus&lt;/a&gt; col tuo riproduttore audio preferito.&lt;/audio&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href=&#34;javascript:(function(){document.getElementById(&#39;elettronicalibera-mattina&#39;).currentTime=0;})()&#34;&gt;0:00&lt;/a&gt;] Introduzione alla giornata (&lt;strong&gt;&lt;em&gt;Idraulico&lt;/em&gt;&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;javascript:(function(){document.getElementById(&#39;elettronicalibera-mattina&#39;).currentTime=196;})()&#34;&gt;3:16&lt;/a&gt;] Arduino, BeagleBoard, Raspberry Pi&amp;hellip; e non solo! – Introduzione al mondo embedded (&lt;strong&gt;&lt;em&gt;Idraulico&lt;/em&gt;&lt;/strong&gt;) - &lt;a href=&#34;https://cloud.frafra.eu/public.php?service=files&amp;t=bcd5aec69919b5d049c9a3328d679c68&amp;download&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;javascript:(function(){document.getElementById(&#39;elettronicalibera-mattina&#39;).currentTime=2770;})()&#34;&gt;46:10&lt;/a&gt;] Software libero nell&amp;rsquo;era dell&amp;rsquo;internet delle cose – Libertà, privacy, e controllo in una realtà virtuale sempre più reale (&lt;strong&gt;&lt;em&gt;Frafra&lt;/em&gt;&lt;/strong&gt;) - &lt;a href=&#34;https://cloud.frafra.eu/public.php?service=files&amp;t=1b3c530d736d85a52981f2caaf8c8c2a&amp;download&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;javascript:(function(){document.getElementById(&#39;elettronicalibera-mattina&#39;).currentTime=5222;})()&#34;&gt;1:27:02&lt;/a&gt;] Verso Arduino&amp;hellip; E oltre! – Introduzione alla scheda elettronica Arduino come strumento didattico e di prototipazione (&lt;strong&gt;&lt;em&gt;Tsumi&lt;/em&gt;&lt;/strong&gt;) - &lt;a href=&#34;https://cloud.frafra.eu/public.php?service=files&amp;t=5cbff9a17d77af66f2c4b4db366845b3&amp;download&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;javascript:(function(){document.getElementById(&#39;elettronicalibera-mattina&#39;).currentTime=6715;})()&#34;&gt;1:51:55&lt;/a&gt;] GNU/Linux nel mondo del business – Perché scegliere GNU/Linux nel mondo industriale &amp;amp; aziendale (&lt;strong&gt;&lt;em&gt;Fale&lt;/em&gt;&lt;/strong&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Pomeriggio (prima parte)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;audio id=&#34;elettronicalibera-pomeriggio1&#34; style=&#34;width: 100%;&#34; src=&#34;&#34;https://archive.viglug.org/2015/elettronicalibera-pomeriggio1.opus&#34; controls=&#34;controls&#34;&gt;Apri &lt;a href=&#34;&#34;https://archive.viglug.org/2015/elettronicalibera-pomeriggio1.opus&#34;&gt;elettronicalibera-pomeriggio1.opus&lt;/a&gt; col tuo riproduttore audio preferito.&lt;/audio&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href=&#34;javascript:(function(){document.getElementById(&#39;elettronicalibera-pomeriggio1&#39;).currentTime=30;})()&#34;&gt;0:30&lt;/a&gt;] Come utilizzare il Raspberry Pi (introduzione) – Pensare e realizzare un progetto (&lt;strong&gt;&lt;em&gt;Idraulico&lt;/em&gt;&lt;/strong&gt;) - &lt;a href=&#34;https://cloud.frafra.eu/public.php?service=files&amp;t=90724fe1ed9c7d118a6c07eaf229de0c&amp;download&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;javascript:(function(){document.getElementById(&#39;elettronicalibera-pomeriggio1&#39;).currentTime=2760;})()&#34;&gt;46:10&lt;/a&gt;] Basi di GPIO – Introduzione pratica all&amp;rsquo;interfaccia di Input/Output del Raspberry Pi al fine di estenderne le funzionalità) (&lt;strong&gt;&lt;em&gt;Tsumi&lt;/em&gt;&lt;/strong&gt;) - &lt;a href=&#34;https://cloud.frafra.eu/public.php?service=files&amp;t=1b3c530d736d85a52981f2caaf8c8c2a&amp;download&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;javascript:(function(){document.getElementById(&#39;elettronicalibera-pomeriggio1&#39;).currentTime=4212;})()&#34;&gt;1:10:12&lt;/a&gt;] Come utilizzare il Raspberry Pi (progetto) – Pensare e realizzare un progetto (&lt;strong&gt;&lt;em&gt;Idraulico&lt;/em&gt;&lt;/strong&gt;) - &lt;a href=&#34;https://cloud.frafra.eu/public.php?service=files&amp;t=4977bfb8870fddf29465bc712c69b1e2&amp;download&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;javascript:(function(){document.getElementById(&#39;elettronicalibera-pomeriggio1&#39;).currentTime=6053;})()&#34;&gt;1:51:55&lt;/a&gt;] Sperimentare sulla BeagleBoard – Come cominciare a scrivere codice e provarlo in pochi minuti (&lt;strong&gt;&lt;em&gt;Fale&lt;/em&gt;&lt;/strong&gt;) - &lt;a href=&#34;https://github.com/Fale/talks/tree/gh-pages/20150321_-_BeagleBoard/examples&#34;&gt;Esempi&lt;/a&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Pomeriggio (seconda parte)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;audio id=&#34;elettronicalibera-pomeriggio2&#34; style=&#34;width: 100%;&#34; src=&#34;&#34;https://archive.viglug.org/2015/elettronicalibera-pomeriggio2.opus&#34; controls=&#34;controls&#34;&gt;Apri &lt;a href=&#34;&#34;https://archive.viglug.org/2015/elettronicalibera-pomeriggio2.opus&#34;&gt;elettronicalibera-pomeriggio2.opus&lt;/a&gt; col tuo riproduttore audio preferito.&lt;/audio&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[&lt;a href=&#34;javascript:(function(){document.getElementById(&#39;elettronicalibera-pomeriggio2&#39;).currentTime=20;})()&#34;&gt;0:20&lt;/a&gt;] BeagleBoard! &amp;hellip;in pratica? – Dis-avventure di uno sperimentatore praticone (&lt;strong&gt;&lt;em&gt;Liquido&lt;/em&gt;&lt;/strong&gt;) - &lt;a href=&#34;https://cloud.frafra.eu/public.php?service=files&amp;t=eec50aaf35273df624155cec2daebd55&amp;download&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;javascript:(function(){document.getElementById(&#39;elettronicalibera-pomeriggio2&#39;).currentTime=2216;})()&#34;&gt;36:56&lt;/a&gt;] Router intelligenti &amp;amp; GPIO con OpenWrt – Trasformare un router economico in una piattaforma di sviluppo (&lt;strong&gt;&lt;em&gt;Frafra&lt;/em&gt;&lt;/strong&gt;) - &lt;a href=&#34;https://cloud.frafra.eu/public.php?service=files&amp;t=1b3c530d736d85a52981f2caaf8c8c2a&amp;download&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[&lt;a href=&#34;javascript:(function(){document.getElementById(&#39;elettronicalibera-pomeriggio2&#39;).currentTime=4082;})()&#34;&gt;1:08:02&lt;/a&gt;] Ninux Lombardia: Internet parallela senza fili – Rete Wi-Fi libera e decentralizzata costruita dalla comunità  (&lt;strong&gt;&lt;em&gt;Frafra&lt;/em&gt;&lt;/strong&gt;) - &lt;a href=&#34;https://cloud.frafra.eu/public.php?service=files&amp;t=23a0cd1c95d8ab33125b963024e5ecbf&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Serata su OpenStreetMap</title>
+      <link>/eventi/2015/03/serata-su-openstreetmap/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/eventi/2015/03/serata-su-openstreetmap/</guid>
+      <description>&lt;p&gt;Lunedì 16 marzo alle ore 21:00 presso la sede di &lt;a href=&#34;http://www.opengate.biz/&#34;&gt;Opengate&lt;/a&gt; di Cernusco sul Naviglio in &lt;a href=&#34;https://www.openstreetmap.org/node/2562006314&#34;&gt;via Giuseppe di Vittorio 7&lt;/a&gt; (&lt;a href=&#34;http://www.instantstreetview.com/2kaqjcz3l65y8z2cozr5z2u&#34;&gt;foto ingresso&lt;/a&gt;), si terrà una serata speciale su OpenStreetMap, con la collaborazione di FIAB Segrateciclabile.&lt;/p&gt;
+
+&lt;p&gt;La serata prevede:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Introduzione a OpenStreetMap (cos&amp;rsquo;è, differenze con Google Maps, potenzialità, &amp;hellip;)&lt;/li&gt;
+&lt;li&gt;Generare una cartina personalizzata&lt;/li&gt;
+&lt;li&gt;Come mappare&lt;/li&gt;
+&lt;li&gt;Laboratorio (dimostrazione pratica e discussioni libere)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Maggiori informazioni sul &lt;a href=&#34;https://wiki.openstreetmap.org/wiki/ViGLug_serata_OSM_2015&#34;&gt;wiki di OpenStreetMap&lt;/a&gt; e sul &lt;a href=&#34;http://forum.viglug.org/index.php?topic=2177.0&#34;&gt;nostro forum&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;evento è stato trasmesso in diretta ed è disponibile presso il &lt;a href=&#34;https://archive.viglug.org/2015/meeting-20150316.opus&#34;&gt;nostro archivio&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linux Day 2014</title>
+      <link>/eventi/2014/10/linux-day/</link>
+      <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/eventi/2014/10/linux-day/</guid>
+      <description>&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hackaton</title>
+      <link>/eventi/2014/04/hackaton/</link>
+      <pubDate>Sat, 05 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/eventi/2014/04/hackaton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux Day 2013</title>
+      <link>/eventi/2013/10/linux-day/</link>
+      <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/eventi/2013/10/linux-day/</guid>
+      <description>&lt;p&gt;Scaletta:
+&amp;ndash; Apertura della giornata &amp;ndash;
+09.30 - Introduzione al software libero
+10.05 - Storia di Linux
+11.40 - KDE: la comunità del drago
+12.15 - Proteggere i propri dati ai tempi di PRISM
+12.50 - Dimostrazione pratica
+&amp;ndash; Pausa Pranzo &amp;ndash;
+14.00 - ViGLug: la nostra comunità
+14.30 - Joomla: il CMS libero
+15.05 - Innovazione nel commercio: i pro e i contro dei negozi online
+15.40 - Scuola media Paccini: storia di una migrazione
+16.15 - WiildOs: lavagne multimediali libere
+16.50 - OpenStreetMaps a Vignate
+17.25 - Estrazione premi
+&amp;ndash; Chiusura della giornata &amp;ndash;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linux Day 2012</title>
+      <link>/eventi/2012/10/linux-day/</link>
+      <pubDate>Sat, 27 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/eventi/2012/10/linux-day/</guid>
+      <description>&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linux Day 2011</title>
+      <link>/eventi/2011/10/linux-day/</link>
+      <pubDate>Sat, 22 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/eventi/2011/10/linux-day/</guid>
+      <description>&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brain Jumble</title>
+      <link>/eventi/2011/05/brain-jumble/</link>
+      <pubDate>Thu, 19 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/eventi/2011/05/brain-jumble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux Installation Party</title>
+      <link>/eventi/2011/04/linux-installation-party/</link>
+      <pubDate>Sat, 30 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/eventi/2011/04/linux-installation-party/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux Day 2010</title>
+      <link>/eventi/2010/10/linux-day/</link>
+      <pubDate>Sat, 23 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/eventi/2010/10/linux-day/</guid>
+      <description>&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

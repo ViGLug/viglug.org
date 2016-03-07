@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Associazione on </title>
+    <link>/categories/associazione/</link>
+    <description>Recent content in Associazione on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Sun, 24 Oct 2010 12:00:00 +0200</lastBuildDate>
+    <atom:link href="/categories/associazione/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nasce il ViGLug</title>
+      <link>/blog/2010/10/nasce-il-viglug/</link>
+      <pubDate>Sun, 24 Oct 2010 12:00:00 +0200</pubDate>
+      
+      <guid>/blog/2010/10/nasce-il-viglug/</guid>
+      <description>&lt;p&gt;Dopo il Linux Day 2010 e la buona risposta che abbiamo avuto sul territorio, oggi nasce formalmente il ViGLug: Vignate GNU/Linux user group.&lt;/p&gt;
+
+&lt;p&gt;Un grazie particolare a tutte le persone che hanno reso possibile questa avventura e che ci hanno spinto e aiutato a realizzarla. :)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

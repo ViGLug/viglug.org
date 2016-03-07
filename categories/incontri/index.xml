@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Incontri on </title>
+    <link>/categories/incontri/</link>
+    <description>Recent content in Incontri on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Sat, 20 Dec 2014 12:00:00 +0200</lastBuildDate>
+    <atom:link href="/categories/incontri/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Riassunto secondo incontro di Dicembre</title>
+      <link>/blog/2014/12/riassunto-secondo-incontro-di-dicembre/</link>
+      <pubDate>Sat, 20 Dec 2014 12:00:00 +0200</pubDate>
+      
+      <guid>/blog/2014/12/riassunto-secondo-incontro-di-dicembre/</guid>
+      <description>&lt;p&gt;Ordine del giorno:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Novità dal mondo del software libero (&lt;a data-privlyhref=&#34;http://viglug.org/#&#34; href=&#34;#&#34; onclick=&#34;document.getElementById(&#39;meeting-20141219&#39;).currentTime=0;return false;&#34;&gt;0:00&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Aggiornamenti costruzione rete Ninux Adda-Martesana (&lt;a data-privlyhref=&#34;http://viglug.org/#&#34; href=&#34;#&#34; onclick=&#34;document.getElementById(&#39;meeting-20141219&#39;).currentTime=202;return false;&#34;&gt;3:22&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Riunioni audio/video in streaming (&lt;a data-privlyhref=&#34;http://viglug.org/#&#34; href=&#34;#&#34; onclick=&#34;document.getElementById(&#39;meeting-20141219&#39;).currentTime=344;return false;&#34;&gt;5:44&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Servizi liberi per i soci ViGLug (&lt;a data-privlyhref=&#34;http://viglug.org/#&#34; href=&#34;#&#34; onclick=&#34;document.getElementById(&#39;meeting-20141219&#39;).currentTime=562;return false;&#34;&gt;9:22&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Argomento principale:&lt;/strong&gt; Eventi futuri (&lt;a data-privlyhref=&#34;http://viglug.org/#&#34; href=&#34;#&#34; onclick=&#34;document.getElementById(&#39;meeting-20141219&#39;).currentTime=777;return false;&#34;&gt;12:57&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;E’ presente un riassunto testuale sul &lt;a data-privlyhref=&#34;http://forum.viglug.org/index.php?topic=2115.msg4118#msg4118&#34; href=&#34;http://forum.viglug.org/index.php?topic=2115.msg4118#msg4118&#34;&gt;forum&lt;/a&gt;.
+
+Qui la registrazione audio:&lt;/p&gt;
+
+&lt;p&gt;&lt;audio id=&#34;meeting-20141219&#34; style=&#34;width: 100%;&#34; src=&#34;https://about.frafra.eu/viglug/log/meeting-20141219.opus &#34; controls=&#34;controls&#34;&gt;Apri &lt;a href=&#34;https://about.frafra.eu/viglug/log/meeting-20141219.opus&#34;&gt;playlist&lt;/a&gt; col tuo riproduttore audio preferito.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;/audio&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Secondo incontro di Dicembre</title>
+      <link>/blog/2014/12/secondo-incontro-di-dicembre/</link>
+      <pubDate>Mon, 15 Dec 2014 12:00:00 +0200</pubDate>
+      
+      <guid>/blog/2014/12/secondo-incontro-di-dicembre/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;&lt;strong&gt;Vernerdì 19 dicembre&lt;/strong&gt; alle ore 19, presso la &#34;Pizzeria Anna&#34; di Bussero in &lt;a href=&#34;https://www.openstreetmap.org/node/1820680265&#34;&gt;Via Barlassina 8&lt;/a&gt; (&lt;a href=&#34;http://www.instantstreetview.com/2kb621z3l6x9ez22tzosz2u&#34;&gt;foto ingresso&lt;/a&gt;), si terrà la pizzata di fine anno del ViGLug.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Successivamente, alle ore 21, presso gli uffici della &lt;a href=&#34;http://www.opengate.biz/&#34;&gt;OpenGate&lt;/a&gt; di Cernusco sul Naviglio in &lt;a href=&#34;https://www.openstreetmap.org/node/2562006314&#34;&gt;via Giuseppe di Vittorio 7&lt;/a&gt; (&lt;a href=&#34;http://www.instantstreetview.com/2kaqjcz3l65y8z2cozr5z2u&#34;&gt;foto ingresso&lt;/a&gt;), si terrà la seconda riunione di Dicembre del ViGLug.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Per motivi organizzativi, vi preghiamo di confermare la vostra presenza a una o entrambe le parti della serata a &lt;a href=&#34;https://dudle.inf.tu-dresden.de/kn354p83/&#34;&gt;questo link&lt;/a&gt;.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Gli argomenti principali: &lt;strong&gt;Linux&lt;/strong&gt;, &lt;strong&gt;NiNux&lt;/strong&gt;, migliorie alle &lt;strong&gt;riunioni in videoconferenza&lt;/strong&gt;, dei &lt;strong&gt;servizi liberi per i membri della nostra comunità&lt;/strong&gt;, delle &lt;strong&gt;novità&lt;/strong&gt; del mondo del software libero, e degli &lt;strong&gt;eventi futuri&lt;/strong&gt; (tra cui una giornata legata al &lt;strong&gt;mondo Arduino e schede ARM&lt;/strong&gt;).&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Ci sarà la possibilità di &lt;strong&gt;partecipare alla riunione anche senza essere fisicamente presenti&lt;/strong&gt;, grazie allo streaming audio. Chi fosse interessato è invitato a connettersi al nostro sito nell&#39;orario della riunione. E&#39; possibile intervenire durante diretta scrivendo nel &lt;a href=&#34;http://viglug.org/chat/&#34;&gt;nostro canale chat IRC&lt;/a&gt; (canale #viglug su irc.freenode.net).&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;Maggiori informazioni nella &lt;a href=&#34;http://forum.viglug.org/index.php?topic=2115.0&#34;&gt;discussione sul forum&lt;/a&gt; e sull&#39;&lt;a href=&#34;http://eepurl.com/_fdE1&#34;&gt;ultima uscita della nostra newsletter&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Primo incontro di Dicembre</title>
+      <link>/blog/2014/11/primo-incontro-di-dicembre/</link>
+      <pubDate>Sat, 29 Nov 2014 12:00:00 +0200</pubDate>
+      
+      <guid>/blog/2014/11/primo-incontro-di-dicembre/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Lunedì 1° dicembre&lt;/strong&gt; alle ore 21, presso gli uffici della &lt;a href=&#34;http://www.opengate.biz/&#34;&gt;OpenGate&lt;/a&gt; di Cernusco sul Naviglio in &lt;a href=&#34;https://www.openstreetmap.org/node/2562006314&#34;&gt;via Giuseppe di Vittorio 7&lt;/a&gt; (&lt;a href=&#34;http://www.instantstreetview.com/2kaqjcz3l65y8z2cozr5z2u&#34;&gt;foto ingresso&lt;/a&gt;), si terrà la prima riunione di dicembre del ViGLug (la seconda si terrà il 19 dicembre).
+Si discuterà principalmente della &lt;strong&gt;costruzione della rete mesh wireless &lt;a href=&#34;http://wiki.ninux.org/&#34;&gt;Ninux&lt;/a&gt; nell&amp;rsquo;Adda Martesana: finalmente si parte!
+&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Gli altri argomenti sono: pianificazione dell&amp;rsquo;&lt;strong&gt;incontro pre-natalizio&lt;/strong&gt;, migliorie alle &lt;strong&gt;riunioni in videoconferenza&lt;/strong&gt;, dei &lt;strong&gt;servizi liberi per i membri della nostra comunità&lt;/strong&gt;, delle &lt;strong&gt;novità&lt;/strong&gt; del mondo del software libero, e degli &lt;strong&gt;eventi futuri&lt;/strong&gt; (tra cui una giornata legata al &lt;strong&gt;mondo Arduino e schede ARM&lt;/strong&gt;).&lt;/p&gt;
+
+&lt;p&gt;Ci sarà la possibilità di &lt;strong&gt;partecipare alla riunione anche senza essere fisicamente presenti&lt;/strong&gt;, grazie allo streaming audio. Chi fosse interessato è invitato a connettersi al nostro sito nell&amp;rsquo;orario della riunione. E&amp;rsquo; possibile intervenire durante diretta scrivendo nel &lt;a href=&#34;http://viglug.org/chat/&#34;&gt;nostro canale chat IRC&lt;/a&gt; (canale #viglug su irc.freenode.net).&lt;/p&gt;
+
+&lt;p&gt;Maggiori informazioni nella &lt;a href=&#34;http://forum.viglug.org/index.php?topic=2107.0&#34;&gt;discussione sul forum&lt;/a&gt; e sull&amp;rsquo;&lt;a href=&#34;http://eepurl.com/9K0VT&#34;&gt;ultima uscita della nostra newsletter&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Secondo incontro di Novembre</title>
+      <link>/blog/2014/11/secondo-incontro-di-novembre/</link>
+      <pubDate>Fri, 28 Nov 2014 12:00:00 +0200</pubDate>
+      
+      <guid>/blog/2014/11/secondo-incontro-di-novembre/</guid>
+      <description>&lt;p&gt;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;Novità!&lt;/strong&gt; Il ViGLug d&amp;rsquo;ora in poi si incontrerà&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;il primo lunedì ed il terzo venerdì di ogni mese&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;Venerdì 21 novembre&lt;/strong&gt; alle ore 21, presso gli uffici della &lt;a href=&#34;http://www.opengate.biz/&#34;&gt;OpenGate&lt;/a&gt; di Cernusco sul Naviglio in &lt;a href=&#34;https://www.openstreetmap.org/node/2562006314&#34;&gt;via Giuseppe di Vittorio 7&lt;/a&gt;, si terrà la riunione del ViGLug.
+Si discuterà del &lt;strong&gt;nuovo forum&lt;/strong&gt;, delle &lt;strong&gt;riunioni in videoconferenza&lt;/strong&gt;, delle &lt;strong&gt;novità&lt;/strong&gt; del mondo del software libero, e degli &lt;strong&gt;eventi futuri&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ci sarà la possibilità di &lt;strong&gt;partecipare alla riunione anche senza essere fisicamente presenti&lt;/strong&gt;, grazie allo streaming e a strumenti di videoconferenza. Chi fosse interessato è invitato a connettersi al &lt;a href=&#34;http://viglug.org/chat/&#34;&gt;nostro canale IRC&lt;/a&gt; nell&amp;rsquo;orario della riunione.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Riassunto Linux Day</title>
+      <link>/blog/2014/11/riassunto-linux-day/</link>
+      <pubDate>Sun, 02 Nov 2014 12:00:00 +0200</pubDate>
+      
+      <guid>/blog/2014/11/riassunto-linux-day/</guid>
+      <description>&lt;p&gt;&lt;h3&gt;Più di 50 visitatori, molto interesse, e un ViGLug in crescita costante&lt;/h3&gt;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Nella sala Vallaperti del bel Palazzo Trivulzio a Melzo, s&amp;rsquo;è tenuta la &lt;strong&gt;giornata nazionale dedicata a GNU/Linux e al software Libero&lt;/strong&gt;. &lt;strong&gt;Tanto il materiale gratuito messo a disposizione&lt;/strong&gt;, molte domande, ed apprezzamenti per la novità principale di quest&amp;rsquo;anno: brevi video tra un intervento e l&amp;rsquo;altro.
+L&amp;rsquo;esperimento del &amp;ldquo;Laboratorio&amp;rdquo; ha portato alla luce la necessità di approfondire in futuro alcuni temi, nello specifico &lt;strong&gt;Ninux&lt;/strong&gt; e &lt;strong&gt;VoIP&lt;/strong&gt;.
+Nonostante quest&amp;rsquo;anno vi siano stati problemi legati all&amp;rsquo;assenza di alcuni relatori e all&amp;rsquo;esiguo numero di organizzatori, l&amp;rsquo;evento si è concluso positivamente.&lt;/p&gt;
+
+&lt;p&gt;Maggiori informazioni nella lettera spedita alla mailing list nazionale&lt;em&gt; ld-idee&lt;/em&gt;:
+&lt;div style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;http://lists.linux.it/pipermail/linuxday-idee/2014-October/001884.html&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://lists.linux.it/pipermail/linuxday-idee/2014-October/001884.html&#34;&gt;http://lists.linux.it/pipermail/linuxday-idee/2014-October/001884.html&lt;/a&gt;&lt;/a&gt;&lt;/div&gt;
+Per organizzare eventi sempre più interessanti in futuro, ti invitiamo a &lt;strong&gt;lasciarci il tuo commento&lt;/strong&gt; e a &lt;strong&gt;partecipare alle nostre riunioni&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LinuxDay 2014</title>
+      <link>/blog/2014/10/linuxday-2014/</link>
+      <pubDate>Wed, 22 Oct 2014 12:00:00 +0200</pubDate>
+      
+      <guid>/blog/2014/10/linuxday-2014/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Aggiornamento: ecco la &lt;a href=&#34;http://viglug.org/wp-content/uploads/sites/3/2014/10/ld14.pdf&#34;&gt;locandina dell&amp;rsquo;evento&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sabato 25 ottobre al Palazzo Trivulzio di Melzo, &lt;a href=&#34;http://www.openstreetmap.org/?mlat=45.50000&amp;amp;mlon=9.42225#map=18/45.50000/9.42225&#34;&gt;via Dante Alighieri 2&lt;/a&gt;, dalle ore 9.25&lt;/strong&gt;
+Ci saranno presentazioni sul &lt;strong&gt;software libero, DRM e lucchetti digitali, LibreOffice e LibreItalia, Wikipedia e Wikidata, Fedora, Elementary OS, Firefox&lt;/strong&gt; e vari talk sul come passare a soluzioni aperte e libere.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ciascun interventò durerà mezz&amp;rsquo;ora&lt;/strong&gt;, al termine della quale sarà possibile porre le proprie &lt;strong&gt;domande&lt;/strong&gt; al relatore.
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;http://www.eventbrite.it/e/registrazione-il-linuxday-2014-del-viglug-13347776559&#34;&gt;Maggiori informazioni sulla pagina dell&amp;rsquo;evento&lt;/a&gt;&lt;/p&gt;
+&lt;strong&gt;Ore 16.40 - Laboratorio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Quest&amp;rsquo;anno ci saranno numerevoli &lt;strong&gt;dimostrazioni&lt;/strong&gt; interattive legate a &lt;strong&gt;progetti&lt;/strong&gt; realizzati dalla nostra comunità, programmi &lt;strong&gt;VoIP&lt;/strong&gt; liberi, ed argomenti più tecnici legati all&amp;rsquo;uso di &lt;strong&gt;GitHub&lt;/strong&gt; e alla &lt;strong&gt;sicurezza informatica&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ore 20.00 - Cena&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Incontro di Ottobre</title>
+      <link>/blog/2014/09/incontro-di-ottobre/</link>
+      <pubDate>Thu, 25 Sep 2014 12:00:00 +0200</pubDate>
+      
+      <guid>/blog/2014/09/incontro-di-ottobre/</guid>
+      <description>&lt;p&gt;Vuoi suggerire un argomento per il Linux Day, darci una mano, o semplicemente conoscerci di persona? Vieni lunedì 29 settembre, alle ore 21.00, negli spazi gentilmente concessi dalla &lt;a href=&#34;http://www.opengate.biz/&#34;&gt;OpenGate&lt;/a&gt; in &lt;a href=&#34;http://www.openstreetmap.org/?mlat=45.517945289611816&amp;amp;mlon=9.342777729034424#map=16/45.5179/9.3428&#34;&gt;via Giuseppe Di Vittorio 7 a Cernusco sul naviglio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Siamo una comunità&lt;/strong&gt; di persone di ogni età, e non solo di esperti in ambito informatico; non vediamo l’ora di conoscerti!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Incontri prima delle vacanze</title>
+      <link>/blog/2014/07/incontri-prima-delle-vacanze/</link>
+      <pubDate>Thu, 10 Jul 2014 12:00:00 +0200</pubDate>
+      
+      <guid>/blog/2014/07/incontri-prima-delle-vacanze/</guid>
+      <description>&lt;p&gt;Oggi, giovedì 10 luglio, alle ore 19, ci sarà un aperitivo per gli amici del ViGLug per salutarci prima dell’estate. L’evento si terrà al Pub House Gulliver in via Andromeda 17, a Cassina De Pecchi (vedi mappa).&lt;/p&gt;
+
+&lt;p&gt;Maggiori informazioni su: &lt;a href=&#34;http://forum.viglug.org/index.php?topic=2085.0&#34;&gt;ViGLug – Forum – Saluti prima delle vacanze&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;La sera di sabato 19 luglio, dalle ore 18.30, ci sarà un incontro con cena per gli utenti italiani di Fedora a Milano, presso il &lt;a href=&#34;http://www.tripadvisor.it/Restaurant_Review-g187849-d4137200-Reviews-Bar_Pizzeria_Barbagia-Milan_Lombardy.html&#34;&gt;Ristorante Pizzeria Barbagia&lt;/a&gt;, in via Ruggero di Lauria 18 (&lt;a href=&#34;https://www.openstreetmap.org/?mlat=45.48642&amp;amp;mlon=9.15640#map=17/45.48642/9.15640&#34;&gt;vedi mappa&lt;/a&gt;). E’ gradita l’&lt;a href=&#34;https://docs.google.com/forms/d/1x_elvwJc4acid7kIVQbD84kPRYJV6poPPwqN0fQyL8k/viewform&#34;&gt;iscrizione&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Maggiori informazioni su: &lt;a href=&#34;http://forum.fedoraonline.it/viewtopic.php?id=22792&#34;&gt;FedoraOnline.it – Pizzata e Meeting Fedora: Adesioni!!!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A tutti coloro che non avranno modo di partecipare a questi eventi, auguriamo una buona estate e… Ci rivediamo al &lt;a href=&#34;http://www.linuxday.it/&#34;&gt;Linux Day&lt;/a&gt;, sabato 25 ottobre, col tema “Libertà Digitale” (luogo ancora da definirsi). Ciao! :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Incontro di Febbraio</title>
+      <link>/blog/2014/02/incontro-di-febbraio/</link>
+      <pubDate>Wed, 05 Feb 2014 12:00:00 +0100</pubDate>
+      
+      <guid>/blog/2014/02/incontro-di-febbraio/</guid>
+      <description>&lt;p&gt;Questo mese ci riuniremo martedì 11 presso gli uffici di &lt;a href=&#34;http://www.opengate.biz/&#34;&gt;Opengate Srl&lt;/a&gt; di Cernusco sul Naviglio in via Giuseppe Di Vittorio 7 (&lt;a href=&#34;http://www.openstreetmap.org/?mlat=45.517945289611816&amp;amp;mlon=9.342777729034424#map=16/45.5179/9.3428&#34;&gt;mappa&lt;/a&gt;) alle ore 21.00.&lt;/p&gt;
+
+&lt;p&gt;Tra i vari punti del giorno ci sarà una presentazione del progetto &lt;a href=&#34;http://holdenc.altervista.org/seren/&#34;&gt;Seren&lt;/a&gt; a cura del creatore &lt;a href=&#34;http://holdenc.altervista.org/&#34;&gt;Holden&lt;/a&gt; (alias Giorgio Vazzana).&lt;/p&gt;
+
+&lt;p&gt;Dopo incoraggianti del test dello scorso mese, abbiamo deciso di trasmettere anche questo evento in streaming audio grazie al programma Seren e ci sarà la diretta via chat IRC sul canale #viglug di Freenode (&lt;a href=&#34;/chat&#34;&gt;ulteriori informazioni&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Sarà possibile intervenire sia su Seren sia su IRC; mentre i punti salienti dell’incontro su chat saranno riportati pubblicamente sul forum, le registrazioni audio complete saranno rese disponibili su richiesta.&lt;/p&gt;
+
+&lt;p&gt;Se volete utilizzare Seren sulla vostra Linux box, ecco qualche risorsa utile:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.launchpad.net/~mibo-fra/+archive/seren&#34;&gt;Repository PPA per Ubuntu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://admin.fedoraproject.org/updates/seren&#34;&gt;Pacchetti per Fedora/EPEL&lt;/a&gt; (yum install seren –enablerepo=updates-testing)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://seren.frafra.eu/&#34;&gt;Installer multipiattaforma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://holdenc.altervista.org/seren/&#34;&gt;Pagina ufficiale del progetto&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Il server al quale connettersi sarà comunicato su IRC all’inizio dell’incontro.&lt;/p&gt;
+
+&lt;p&gt;Continua a leggere per conoscere tutti i punti della riunione.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Incontro di Gennaio</title>
+      <link>/blog/2014/01/incontro-di-gennaio/</link>
+      <pubDate>Thu, 09 Jan 2014 12:00:00 +0100</pubDate>
+      
+      <guid>/blog/2014/01/incontro-di-gennaio/</guid>
+      <description>&lt;p&gt;Questo mese ci riuniremo mercoledì 15 presso gli uffici di &lt;a href=&#34;http://www.opengate.biz/&#34;&gt;Opengate Srl&lt;/a&gt; di Cernusco sul Naviglio in via Giuseppe Di Vittorio 7 (&lt;a href=&#34;http://www.openstreetmap.org/?mlat=45.517945289611816&amp;amp;mlon=9.342777729034424#map=16/45.5179/9.3428&#34;&gt;mappa&lt;/a&gt;) alle ore 21.00.&lt;/p&gt;
+
+&lt;p&gt;Tra i vari punti del giorno ci sarà un tutorial sull’utilizzo di &lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Per la prima volta l’evento sarà in streaming audio grazie al programma &lt;a href=&#34;http://holdenc.altervista.org/seren/&#34;&gt;Seren&lt;/a&gt; e saranno comunicati in diretta i punti salienti via chat IRC sul canale #viglug di Freenode (&lt;a href=&#34;/chat&#34;&gt;ulteriori informazioni&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Sarà possibile intervenire sia su Seren sia su IRC; mentre i punti salienti dell’incontro su chat saranno riportati pubblicamente sul forum, le registrazioni audio complete saranno rese disponibili su richiesta.&lt;/p&gt;
+
+&lt;p&gt;Se volete utilizzare Seren sulla vostra Linux box, ecco qualche risorsa utile:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.launchpad.net/~mibo-fra/+archive/seren&#34;&gt;Repository PPA per Ubuntu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://admin.fedoraproject.org/updates/seren&#34;&gt;Pacchetti per Fedora/EPEL&lt;/a&gt; (yum install seren –enablerepo=updates-testing)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://seren.frafra.eu/&#34;&gt;Installer multipiattaforma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://holdenc.altervista.org/seren/&#34;&gt;Pagina ufficiale del progetto&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Il server al quale connettersi sarà comunicato su IRC all’inizio dell’incontro.&lt;/p&gt;
+
+&lt;p&gt;Continua a leggere per conoscere tutti i punti della riunione.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Incontro di Dicembre</title>
+      <link>/blog/2013/11/incontro-di-dicembre/</link>
+      <pubDate>Fri, 29 Nov 2013 12:00:00 +0100</pubDate>
+      
+      <guid>/blog/2013/11/incontro-di-dicembre/</guid>
+      <description>&lt;p&gt;Questo mese ci riuniremo lunedì 2 presso gli uffici di &lt;a href=&#34;http://www.opengate.biz/&#34;&gt;Opengate Srl&lt;/a&gt; di Cernusco sul Naviglio situata in via Giuseppe Di Vittorio 7 (&lt;a href=&#34;http://www.openstreetmap.org/?mlat=45.51772&amp;amp;mlon=9.34309#map=18/45.51772/9.34309&amp;amp;layers=N&#34;&gt;mappa&lt;/a&gt;) alle ore 21.00.&lt;/p&gt;
+
+&lt;p&gt;Vi informiamo inoltre di aver inaugurato la sezione &lt;a href=&#34;/eventi&#34;&gt;Eventi&lt;/a&gt;, dove è possibile vedere i prossimi incontri e iniziative in programma, tra cui le nuove serate in chat con scadenza settimanale. Per permettere al maggior numero di persone possibile di partecipare, ogni settimana ci si incontrerà in un giorno diverso.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Incontro di Novembre</title>
+      <link>/blog/2013/11/incontro-di-novembre/</link>
+      <pubDate>Sun, 03 Nov 2013 12:00:00 +0100</pubDate>
+      
+      <guid>/blog/2013/11/incontro-di-novembre/</guid>
+      <description>&lt;p&gt;Questo mese ci riuniremo giovedì 7 presso gli uffici di &lt;a href=&#34;http://www.opengate.biz/&#34;&gt;Opengate Srl&lt;/a&gt; di Cernusco sul Naviglio situata in via Giuseppe Di Vittorio 7 (&lt;a href=&#34;http://www.openstreetmap.org/?mlat=45.51772&amp;amp;mlon=9.34309#map=18/45.51772/9.34309&amp;amp;layers=N&#34;&gt;mappa&lt;/a&gt;) alle ore 21.00.&lt;/p&gt;
+
+&lt;p&gt;Vi informiamo inoltre di aver inaugurato la sezione &lt;a href=&#34;/eventi&#34;&gt;Eventi&lt;/a&gt;, dove è possibile vedere i prossimi incontri e iniziative in programma, tra cui le nuove serate in chat con scadenza settimanale. Per permettere al maggior numero di persone possibile di partecipare, ogni settimana ci si incontrerà in un giorno diverso.&lt;/p&gt;
+
+&lt;p&gt;E’ inoltre possibile sottoscrivere il nostro calendario in Google Calendar, che permetterà, a chi lo desidera, di ricevere gratuitamente un sms sul proprio cellulare per segnalare al momento più opportuno il prossimo evento.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Incontro di Ottobre</title>
+      <link>/blog/2013/09/incontro-di-ottobre/</link>
+      <pubDate>Sun, 29 Sep 2013 12:00:00 +0100</pubDate>
+      
+      <guid>/blog/2013/09/incontro-di-ottobre/</guid>
+      <description>&lt;p&gt;Venerdì 11 ottobre, alle ore 21.00, ci si incontrerà alla OpenGate di Cernusco sul Naviglio (&lt;a href=&#34;http://www.openstreetmap.org/?mlat=45.51772&amp;amp;mlon=9.34309#map=18/45.51772/9.34309&amp;amp;layers=N&#34;&gt;vedi mappa&lt;/a&gt;) che gentilmente ci fornisce i suoi locali, e non al Baba Yaga di Vignate come precedentemente annunciato.&lt;/p&gt;
+
+&lt;p&gt;E’ possibile usufruire del parcheggio della azienda.&lt;/p&gt;
+
+&lt;p&gt;Maggiori informazioni sul &lt;a href=&#34;http://forum.viglug.org/index.php?topic=1738.0&#34;&gt;forum&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5 eventi a cui non mancare</title>
+      <link>/blog/2013/09/5-eventi-a-cui-non-mancare/</link>
+      <pubDate>Wed, 18 Sep 2013 12:00:00 +0200</pubDate>
+      
+      <guid>/blog/2013/09/5-eventi-a-cui-non-mancare/</guid>
+      <description>&lt;p&gt;5 eventi ai quali non mancare! Conferenze ed incontri nella tua zona: da LibreOffice ai database liberi nell’era del cloud computing, da OpenStreetMap alla ripresa degli incontri mensili del ViGLug, per finire col nostro &lt;a href=&#34;http://www.eventbrite.it/event/6816228523?ref=ebtn&#34;&gt;Linux Day&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Tutto questo nell’ultimo numero della nostra newsletter (&lt;a href=&#34;http://viglug.org/newsletter&#34;&gt;iscriviti per restare informato&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Il ViGLug va in vacanza</title>
+      <link>/blog/2013/05/il-viglug-va-in-vacanza/</link>
+      <pubDate>Thu, 23 May 2013 12:00:00 +0200</pubDate>
+      
+      <guid>/blog/2013/05/il-viglug-va-in-vacanza/</guid>
+      <description>&lt;p&gt;Il ViGLug sospende temporaneamente i suoi incontri, ma la sua comunità non smette di aiutare utenti in difficoltà, di dispensare consigli e di preparare eventi: &lt;a href=&#34;http://forum.viglug.org/index.php?topic=1681.0&#34;&gt;stiamo già lavorando al prossimo Linux Day&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Il tema di quest’anno è: &lt;em&gt;Innovazione. Di tutti. Per tutti.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Restate in contatto con noi e iscrivetevi alla nostra &lt;a href=&#34;http://viglug.org/newsletter/&#34;&gt;newsletter&lt;/a&gt; per rimanere informati sulle nostre iniziative!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

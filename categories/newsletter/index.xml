@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newsletter on </title>
+    <link>/categories/newsletter/</link>
+    <description>Recent content in Newsletter on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Wed, 23 May 2012 12:00:00 +0200</lastBuildDate>
+    <atom:link href="/categories/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Newsletter del 22 Maggio 2012</title>
+      <link>/blog/2012/05/newsletter-del-22-maggio-2012/</link>
+      <pubDate>Wed, 23 May 2012 12:00:00 +0200</pubDate>
+      
+      <guid>/blog/2012/05/newsletter-del-22-maggio-2012/</guid>
+      <description>&lt;p&gt;Ecco la &lt;a href=&#34;http://viglug.org/wysijap/subscriptions/?wysija-page=1&amp;amp;controller=email&amp;amp;action=view&amp;amp;email_id=3&amp;amp;wysijap=subscriptions&#34;&gt;newsletter del 22 Maggio 2012&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ti ricordiamo che puoi riceverla anche tu gratuitamente sulla tua email lasciando il tuo indirizzo di posta elettronica nella sezione &lt;a href=&#34;http://viglug.org/newsletter/&#34;&gt;Newsletter&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

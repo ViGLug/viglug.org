@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eventi on </title>
+    <link>/categories/eventi/</link>
+    <description>Recent content in Eventi on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Wed, 02 Apr 2014 12:00:00 +0200</lastBuildDate>
+    <atom:link href="/categories/eventi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hackathon!</title>
+      <link>/blog/2014/04/hackathon/</link>
+      <pubDate>Wed, 02 Apr 2014 12:00:00 +0200</pubDate>
+      
+      <guid>/blog/2014/04/hackathon/</guid>
+      <description>&lt;p&gt;Sabato 5 aprile, dalle 9 alle 18, sempre presso &lt;a href=&#34;http://www.opengate.biz/&#34;&gt;Opengate Srl&lt;/a&gt; di Cernusco sul Naviglio (&lt;a href=&#34;http://www.openstreetmap.org/?mlat=45.517945289611816&amp;amp;mlon=9.342777729034424#map=16/45.5179/9.3428&#34;&gt;mappa&lt;/a&gt;), faremo una giornata dedicata alla programmazione e allo sviluppo di un applicativo per agevolare le attività di mappatura da smartphone (leggasi post &amp;ldquo;&lt;a href=&#34;http://forum.viglug.org/index.php?topic=2066.0&#34;&gt;Hackathon e webapp&lt;/a&gt;&amp;rdquo;) per contribuire e migliorare OpenStreetMaps.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
