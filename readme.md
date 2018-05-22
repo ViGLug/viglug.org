@@ -12,4 +12,4 @@ Parte dei vecchi contenuti del ViGLug è reperibile su:
 
 Un saluto a tutti i pinguini che hanno partecipato a questa avventura,
  
-[https://frafra.eu](Frafra)
+[Frafra](https://frafra.eu)
