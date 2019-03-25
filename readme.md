@@ -15,3 +15,6 @@ Parte dei vecchi contenuti del ViGLug è reperibile su:
 Un saluto a tutti i pinguini che hanno partecipato a questa avventura,
  
 [Frafra](https://frafra.eu)
+
+Un saluto a tutti gli amici del Viglug, e in particolare a @Frafra
+Un po' mi mancano i nostri incontri...
